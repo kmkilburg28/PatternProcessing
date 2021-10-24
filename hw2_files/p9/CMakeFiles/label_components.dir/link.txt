@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblabel_components.a  CMakeFiles/label_components.dir/home/kadenk/HCI575/HW2/hw2_files/label_components.cpp.o
+/usr/bin/ranlib liblabel_components.a

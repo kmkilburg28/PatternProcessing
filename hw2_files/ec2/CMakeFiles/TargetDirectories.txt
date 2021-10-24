@@ -1,0 +1,5 @@
+/home/kadenk/HCI575/HW2/hw2_files/ec2/CMakeFiles/rebuild_cache.dir
+/home/kadenk/HCI575/HW2/hw2_files/ec2/CMakeFiles/edit_cache.dir
+/home/kadenk/HCI575/HW2/hw2_files/ec2/CMakeFiles/ec2.dir
+/home/kadenk/HCI575/HW2/hw2_files/ec2/CMakeFiles/find_comp_origin.dir
+/home/kadenk/HCI575/HW2/hw2_files/ec2/CMakeFiles/label_components.dir

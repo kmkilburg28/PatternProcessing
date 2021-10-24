@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfind_comp_origin.a  CMakeFiles/find_comp_origin.dir/home/kadenk/HCI575/HW2/hw2_files/find_comp_origin.cpp.o
+/usr/bin/ranlib libfind_comp_origin.a

@@ -1,0 +1,3 @@
+/home/kadenk/HCI575/HW2/hw2_files/p1/CMakeFiles/edit_cache.dir
+/home/kadenk/HCI575/HW2/hw2_files/p1/CMakeFiles/rebuild_cache.dir
+/home/kadenk/HCI575/HW2/hw2_files/p1/CMakeFiles/p1.dir
